@@ -1,0 +1,14 @@
+C:\Users\rpaulo\Desktop\ave\SqlMapper\SqlMapperTest\bin\Debug\SqlMapperTest.exe
+C:\Users\rpaulo\Desktop\ave\SqlMapper\SqlMapperTest\bin\Debug\SqlMapperTest.pdb
+C:\Users\rpaulo\Desktop\ave\SqlMapper\SqlMapperTest\bin\Debug\SqlMapper.dll
+C:\Users\rpaulo\Desktop\ave\SqlMapper\SqlMapperTest\bin\Debug\SqlMapper.pdb
+C:\Users\rpaulo\Desktop\ave\SqlMapper\SqlMapperTest\obj\Debug\SqlMapperTest.csprojResolveAssemblyReference.cache
+C:\Users\rpaulo\Desktop\ave\SqlMapper\SqlMapperTest\obj\Debug\SqlMapperTest.exe
+C:\Users\rpaulo\Desktop\ave\SqlMapper\SqlMapperTest\obj\Debug\SqlMapperTest.pdb
+D:\Ficheiros Gerais\Helping\AVE\Trabalho Final\SqlMapper\SqlMapperTest\bin\Debug\SqlMapperTest.exe
+D:\Ficheiros Gerais\Helping\AVE\Trabalho Final\SqlMapper\SqlMapperTest\bin\Debug\SqlMapperTest.pdb
+D:\Ficheiros Gerais\Helping\AVE\Trabalho Final\SqlMapper\SqlMapperTest\bin\Debug\SqlMapper.dll
+D:\Ficheiros Gerais\Helping\AVE\Trabalho Final\SqlMapper\SqlMapperTest\bin\Debug\SqlMapper.pdb
+D:\Ficheiros Gerais\Helping\AVE\Trabalho Final\SqlMapper\SqlMapperTest\obj\Debug\SqlMapperTest.csprojResolveAssemblyReference.cache
+D:\Ficheiros Gerais\Helping\AVE\Trabalho Final\SqlMapper\SqlMapperTest\obj\Debug\SqlMapperTest.exe
+D:\Ficheiros Gerais\Helping\AVE\Trabalho Final\SqlMapper\SqlMapperTest\obj\Debug\SqlMapperTest.pdb

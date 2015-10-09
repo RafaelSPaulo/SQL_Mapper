@@ -1,0 +1,14 @@
+C:\Users\rpaulo\Desktop\ave\SqlMapper\SqlMapper\bin\Debug\SqlMapper.dll
+C:\Users\rpaulo\Desktop\ave\SqlMapper\SqlMapper\bin\Debug\SqlMapper.pdb
+C:\Users\rpaulo\Desktop\ave\SqlMapper\SqlMapper\obj\Debug\SqlMapper.dll
+C:\Users\rpaulo\Desktop\ave\SqlMapper\SqlMapper\obj\Debug\SqlMapper.pdb
+C:\Users\rpaulo\Desktop\ave\SqlMapper\SqlMapper\obj\Debug\SqlMapper.csprojResolveAssemblyReference.cache
+D:\Ficheiros Gerais\Helping\AVE\Trabalho Final\SqlMapper\SqlMapper\bin\Debug\SqlMapper.dll
+D:\Ficheiros Gerais\Helping\AVE\Trabalho Final\SqlMapper\SqlMapper\bin\Debug\SqlMapper.pdb
+D:\Ficheiros Gerais\Helping\AVE\Trabalho Final\SqlMapper\SqlMapper\obj\Debug\SqlMapper.csprojResolveAssemblyReference.cache
+D:\Ficheiros Gerais\Helping\AVE\Trabalho Final\SqlMapper\SqlMapper\obj\Debug\SqlMapper.dll
+D:\Ficheiros Gerais\Helping\AVE\Trabalho Final\SqlMapper\SqlMapper\obj\Debug\SqlMapper.pdb
+D:\Isel\5º Ano\Semestre Verão\AVE\Trabalho Final\SqlMapper\SqlMapper\bin\Debug\SqlMapper.dll
+D:\Isel\5º Ano\Semestre Verão\AVE\Trabalho Final\SqlMapper\SqlMapper\bin\Debug\SqlMapper.pdb
+D:\Isel\5º Ano\Semestre Verão\AVE\Trabalho Final\SqlMapper\SqlMapper\obj\Debug\SqlMapper.dll
+D:\Isel\5º Ano\Semestre Verão\AVE\Trabalho Final\SqlMapper\SqlMapper\obj\Debug\SqlMapper.pdb

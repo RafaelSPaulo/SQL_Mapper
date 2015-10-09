@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlMapperColumnMappers", "SqlMapperColumnMappers\SqlMapperColumnMappers.csproj", "{0226F1DE-FD87-4026-A47C-CA888ECC49A1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F4C5DA3A-7996-425C-98B4-E31152605E62} = {F4C5DA3A-7996-425C-98B4-E31152605E62}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlMapperConnectionPolicy", "SqlMapperConnectionPolicy\SqlMapperConnectionPolicy.csproj", "{5F456F74-C32A-44CF-9759-2152E61B3C61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlMapperDomainTest", "SqlMapperDomainTest\SqlMapperDomainTest.csproj", "{5106223C-9EBC-4E92-BA01-2A738A51A547}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F4C5DA3A-7996-425C-98B4-E31152605E62} = {F4C5DA3A-7996-425C-98B4-E31152605E62}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlMapper1", "SqlMapper1\SqlMapper1.csproj", "{E9356323-7C89-4F08-80DB-83B0B0FCA9DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlMapper1Test", "SqlMapper1Test\SqlMapper1Test.csproj", "{77351B67-5826-4778-A11E-67D667157276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlMapper2", "SqlMapper2\SqlMapper2.csproj", "{892D15E1-A826-44BC-A9EA-8B473327396E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlMapper2Test", "SqlMapper2Test\SqlMapper2Test.csproj", "{47024824-695A-4C1A-95AF-CAE4D470F798}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlMapperAttributes", "SqlMapperAttributes\SqlMapperAttributes.csproj", "{F4C5DA3A-7996-425C-98B4-E31152605E62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlMapper3", "SqlMapper3\SqlMapper3.csproj", "{4A15364E-A304-442A-97FB-EA38CDDE9EBC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5F456F74-C32A-44CF-9759-2152E61B3C61} = {5F456F74-C32A-44CF-9759-2152E61B3C61}
+		{0226F1DE-FD87-4026-A47C-CA888ECC49A1} = {0226F1DE-FD87-4026-A47C-CA888ECC49A1}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlMapper3Test", "SqlMapper3Test\SqlMapper3Test.csproj", "{E9ABD731-649A-4E24-BF28-B872398031FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0226F1DE-FD87-4026-A47C-CA888ECC49A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0226F1DE-FD87-4026-A47C-CA888ECC49A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0226F1DE-FD87-4026-A47C-CA888ECC49A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0226F1DE-FD87-4026-A47C-CA888ECC49A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F456F74-C32A-44CF-9759-2152E61B3C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F456F74-C32A-44CF-9759-2152E61B3C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F456F74-C32A-44CF-9759-2152E61B3C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F456F74-C32A-44CF-9759-2152E61B3C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5106223C-9EBC-4E92-BA01-2A738A51A547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5106223C-9EBC-4E92-BA01-2A738A51A547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5106223C-9EBC-4E92-BA01-2A738A51A547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5106223C-9EBC-4E92-BA01-2A738A51A547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9356323-7C89-4F08-80DB-83B0B0FCA9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9356323-7C89-4F08-80DB-83B0B0FCA9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9356323-7C89-4F08-80DB-83B0B0FCA9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9356323-7C89-4F08-80DB-83B0B0FCA9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77351B67-5826-4778-A11E-67D667157276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77351B67-5826-4778-A11E-67D667157276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77351B67-5826-4778-A11E-67D667157276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77351B67-5826-4778-A11E-67D667157276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892D15E1-A826-44BC-A9EA-8B473327396E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892D15E1-A826-44BC-A9EA-8B473327396E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892D15E1-A826-44BC-A9EA-8B473327396E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892D15E1-A826-44BC-A9EA-8B473327396E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47024824-695A-4C1A-95AF-CAE4D470F798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47024824-695A-4C1A-95AF-CAE4D470F798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47024824-695A-4C1A-95AF-CAE4D470F798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47024824-695A-4C1A-95AF-CAE4D470F798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4C5DA3A-7996-425C-98B4-E31152605E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C5DA3A-7996-425C-98B4-E31152605E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C5DA3A-7996-425C-98B4-E31152605E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C5DA3A-7996-425C-98B4-E31152605E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A15364E-A304-442A-97FB-EA38CDDE9EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A15364E-A304-442A-97FB-EA38CDDE9EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A15364E-A304-442A-97FB-EA38CDDE9EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A15364E-A304-442A-97FB-EA38CDDE9EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9ABD731-649A-4E24-BF28-B872398031FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9ABD731-649A-4E24-BF28-B872398031FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9ABD731-649A-4E24-BF28-B872398031FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9ABD731-649A-4E24-BF28-B872398031FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
